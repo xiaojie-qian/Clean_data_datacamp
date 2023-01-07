@@ -1,2 +1,5 @@
-# Clean_data_datacamp
-Notes for datacamp 
+# Data science with Python 
+## Description
+- Cleaning data with python
+- Date and time in Python
+- Write functions
