@@ -2,4 +2,4 @@
 ## Description
 - Cleaning data with python
 - Date and time in Python
-- Write functions
+- Write functions with Python
