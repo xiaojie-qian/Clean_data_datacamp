@@ -4,7 +4,7 @@
 - 25 Courses 
 - 6 Projects
 ## Description
-- 1. Dictionary and advanced Numpy
+- 1. Dictionary and advanced Numpy (conditonal statements and loop)
 - 2. Manipulating in Pandas 
 - 3. Joining Data with Python and SQL 
 - 4. Matplotlib
