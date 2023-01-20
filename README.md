@@ -15,4 +15,4 @@
 - 9. **Write functions with Python**
 - 10. Toolbox in Python: Write functions, Lambda, List comprehension and generators
 - 11. Introduction to Statistics in Python
-- 12. Introduction to Regression with statsmodels in Python
+- 12. Introduction to Regression with statsmodels in Python(ols & SLR)
