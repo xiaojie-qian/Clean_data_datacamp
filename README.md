@@ -24,5 +24,7 @@
 - 18. Unsupervised learning in Python
 - 19. Machine learning with Tree-based models in Python
 
+<br>
+
 
 ![certificate_data scientist](https://user-images.githubusercontent.com/58776067/215319927-9f42ca5e-128e-494c-a4b3-194c090357ed.png)
